@@ -2,7 +2,7 @@
 
 Fun project to reconstruct the 2004 era Sasser worm
 
-Exploit source from: houseofdabus 
+Exploit source from: houseofdabus (https://github.com/yorickdewid/Sasser/blob/master/sasser.c)
 FTP source from: https://stackoverflow.com/questions/23119615/coding-ftp-service-over-tcp-in-c-code
 Netsky FTP call flow ( F-Secure ): https://www.f-secure.com/virus-info/v-pics/netsky_ftp.pdf
 Sasser FTP call flow ( F-Secure ): https://www.f-secure.com/virus-info/v-pics/sasser_ftp.pdf
